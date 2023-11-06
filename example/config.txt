@@ -1,0 +1,2 @@
+Prefix plugins/LaCReMA2/example/
+Plugin LaCReMA2 inputfile parameters.txt outputfile output.txt
